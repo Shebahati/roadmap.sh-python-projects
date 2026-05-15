@@ -1,0 +1,5 @@
+Welcome to TASK MANAGER!
+
+You prompt should look like this:
+task-cli + add /update /delete /list /mark- + id(not for add/list) + "name of the task"
+Press "q" to quit.
