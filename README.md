@@ -4,7 +4,7 @@ This repository contains my solutions to the [Python projects](https://roadmap.s
 
 ## Projects List
 
-1. [Task Tracker CLI](./task-tracker/) – A command-line task manager.
+1. [Task Tracker CLI](./task-tracker/) – A command-line task manager: https://roadmap.sh/projects/task-tracker
 2. *More to come...*
 
 ## 🛠How to Run
