@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A simple CLI task manager from https://roadmap.sh/projects/task-tracker.
+https://roadmap.sh/projects/task-tracker.
 
 ## Usage
 
