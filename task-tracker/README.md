@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-https://roadmap.sh/projects/task-tracker.
+A simple cli task maneger
 
 ## Usage
 
@@ -27,3 +27,6 @@ Run `python main.py` then enter commands:
 ## Requirements
 
 Python 3.8+
+
+
+Project Page: https://roadmap.sh/projects/task-tracker
